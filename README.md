@@ -1,5 +1,7 @@
 # CPP Expedition
 cpp expedition exploring usefull libs and framworks made by awsome ppl.
+
+This project will cover most of [these](https://github.com/fffaraz/awesome-cpp).
 # Contribution 
 It's easy just make a foler name should be same as **framework** or **libs** name XD.
 
